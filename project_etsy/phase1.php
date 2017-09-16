@@ -12,7 +12,7 @@
 // Giving user the initial option
 echo '<div class="container">
 		<div class="jumbotron">
-			<h1>WGSN ETSY Assessment</h1>      
+			<h1>ETSY Analytics</h1>      
 				<p>To get a list of all the Shops provided by ETSY, Please click the Get ETSY Shops button below. <br> 
 				   And then Click on the OAuth Authentication button to get your app authorized by ETSY </p></br></br>
 				
